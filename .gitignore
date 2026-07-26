@@ -1,0 +1,14 @@
+node_modules/
+dist/
+output/*
+!output/.gitkeep
+.env
+*.log
+.DS_Store
+coverage/
+dashboard/node_modules/
+dashboard/dist/
+playwright-report/
+test-results/
+*.png
+!tests/fixtures/**

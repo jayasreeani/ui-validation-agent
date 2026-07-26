@@ -1,0 +1,15 @@
+{
+  "runId": "sample",
+  "appUrl": "https://example.com",
+  "startedAt": "",
+  "finishedAt": "",
+  "summary": {
+    "totalIssues": 0,
+    "critical": 0,
+    "major": 0,
+    "minor": 0,
+    "info": 0,
+    "passed": true
+  },
+  "issues": []
+}
