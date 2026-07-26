@@ -12,3 +12,4 @@ playwright-report/
 test-results/
 *.png
 !tests/fixtures/**
+.vercel
